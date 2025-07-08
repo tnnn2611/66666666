@@ -30,6 +30,6 @@
 
 支持后续扩展结构，如影片筛选、女优百科、热门搜索词推荐等。
 
-<span style="display:none;">[Canonical link] ( ）</span>
+<span style="display:none;">[Canonical link] ( https://github.com/tnnn2611/66666666 ）</span>
 
 
